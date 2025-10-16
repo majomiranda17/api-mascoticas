@@ -19,5 +19,12 @@
     "tipo": "Gato",
     "edad": 7,
     "createdAt": "2025-10-15T18:32:47.793Z"
+  },
+  {
+    "id": 4,
+    "nombre": "michi",
+    "tipo": "Gato",
+    "edad": 3,
+    "createdAt": "2025-10-16T03:38:17.750Z"
   }
 ]
