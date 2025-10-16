@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sin nombre",
+    "tipo": "Desconocido",
+    "edad": 0,
+    "createdAt": "2025-10-15T08:06:53.691Z"
+  },
+  {
+    "id": 2,
+    "nombre": "Luna",
+    "tipo": "Gato",
+    "edad": 3,
+    "createdAt": "2025-10-15T08:09:11.525Z"
+  },
+  {
+    "id": 3,
+    "nombre": "Dante emilio escobar gaviria",
+    "tipo": "Gato",
+    "edad": 7,
+    "createdAt": "2025-10-15T18:32:47.793Z"
+  }
+]
